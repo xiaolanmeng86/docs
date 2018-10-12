@@ -3,7 +3,7 @@
 #### `请严格按照规范编写代码！`
 #### `请严格按照规范编写代码！`
 ## java代码格式规范
-- **参考[阿里java代码规范](https://github.com/hsowan/docs/blob/master/developing-guideline/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E8%AF%A6%E5%B0%BD%E7%89%88%EF%BC%89.pdf)**
+- **参考[阿里java代码规范](https://github.com/hsowan/docs/blob/master/developer-guidelines/alibaba-java-developer-guidelines.pdf)**
 ## Pull Request要求
 
 - **代码格式** 提交前请按项目风格进行格式化。
@@ -241,5 +241,5 @@ git push origin <feature／bug-branch-name>
 
 #### GIT 补充阅读
 
-- [Git基础](https://github.com/hsowan/docs/blob/master/git-learn/git%E5%9F%BA%E7%A1%80.pdf)
+- [Git基础](https://github.com/hsowan/docs/blob/master/git-learn/git-base.pdf)
 - [Git进阶](https://github.com/hsowan/docs/blob/master/git-learn/README.md)
