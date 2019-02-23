@@ -1,5 +1,5 @@
 # [查看官方文档](https://git-scm.com/doc)
-# 入门请点这里这里-->>>># [git入门概念](https://github.com/hsowan/docs/blob/master/git%E5%9F%BA%E7%A1%80.pdf)
+# 入门请点这里这里-->>>># [git入门概念](./git-base.pdf)
 # 进阶 1: HEAD、master与branch
 这一节主要是几个概念的解释：HEAD、master 以及 Git 中非常重要的一个概念： branch。
 ### 引用: commit### 的快捷方式
